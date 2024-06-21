@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/inxram/sugarwallet/static/css/main.9d190599.css",
-    "main.js": "/inxram/sugarwallet/static/js/main.0749462f.js",
-    "static/js/453.2e8d5f06.chunk.js": "/inxram/sugarwallet/static/js/453.2e8d5f06.chunk.js",
-    "static/media/gold-bar.png": "/inxram/sugarwallet/static/media/gold-bar.3abdfb7328aec8cbb445.png",
-    "index.html": "/inxram/sugarwallet/index.html",
-    "main.9d190599.css.map": "/inxram/sugarwallet/static/css/main.9d190599.css.map",
-    "main.0749462f.js.map": "/inxram/sugarwallet/static/js/main.0749462f.js.map",
-    "453.2e8d5f06.chunk.js.map": "/inxram/sugarwallet/static/js/453.2e8d5f06.chunk.js.map"
+    "main.css": "/sugarwallet/static/css/main.9d190599.css",
+    "main.js": "/sugarwallet/static/js/main.9461983f.js",
+    "static/js/453.2e8d5f06.chunk.js": "/sugarwallet/static/js/453.2e8d5f06.chunk.js",
+    "static/media/gold-bar.png": "/sugarwallet/static/media/gold-bar.3abdfb7328aec8cbb445.png",
+    "index.html": "/sugarwallet/index.html",
+    "main.9d190599.css.map": "/sugarwallet/static/css/main.9d190599.css.map",
+    "main.9461983f.js.map": "/sugarwallet/static/js/main.9461983f.js.map",
+    "453.2e8d5f06.chunk.js.map": "/sugarwallet/static/js/453.2e8d5f06.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d190599.css",
-    "static/js/main.0749462f.js"
+    "static/js/main.9461983f.js"
   ]
 }
